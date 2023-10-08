@@ -1,13 +1,13 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Projects_Reports"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Reports
 
 format:
   html:
