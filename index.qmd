@@ -1,11 +1,56 @@
 ---
-title: "Report"
+title: "Projects Reports from Fran"
+author: "Francisco Porcel-Pastrana"
+format:
+  html:
+    toc: true
+    toc-expand: 4
+    toc-location: left
+    number-sections: true
+    html-math-method: katex
+    number-depth: 4
+    css: styles.css
 ---
 
-This is a Quarto website.
+This is an index webside to save all group projects to make easy to find all analysis that I have performed for anyone.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+# Prostate team
+
+## Fran
+
+### Training in CRG
+
+- **Basal vs Luminal prostate cell**: [Report](https://lecrop.github.io/RNAseq-prostate-cells-Basal-vs-Luminal/)
+
+## Montero
+
+## Jesús
+
+## Pruden
+
+# Brain Team
+
+## Miguel
+
+## Ignacio
+
+## Ana
+
+## Jose
+
+# Tiroides
+
+## Andrea
+
+
+
+
+
+
+
+
+
+
+
+
